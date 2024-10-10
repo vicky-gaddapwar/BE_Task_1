@@ -1,0 +1,8 @@
+fastapi
+aiohttp
+pillow
+uvicorn
+pandas
+sqlalchemy
+databases
+asyncpg
